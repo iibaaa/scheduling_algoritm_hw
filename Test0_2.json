@@ -1,0 +1,12 @@
+{
+    "tasks": [
+        {
+            "execution_time": 2,
+            "period": 5
+        },
+        {
+            "execution_time": 3,
+            "period": 7
+        }
+    ]
+}
