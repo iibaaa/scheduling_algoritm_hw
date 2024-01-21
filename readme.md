@@ -1,4 +1,6 @@
  ### BBS671 HW 2 - Earliest Deadline First (EDF) & Rate Monotonic (RM) Scheduling Implementation
+## Updates
+* 21.01.2024 : in RM scheduling there is a bug for if task not done before next time arrived, it does not work properly. it will be fixed later.
 
 ## How to run
 1. Clone the repository
